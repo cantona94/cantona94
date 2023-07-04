@@ -1,16 +1,27 @@
-### Hi there 👋
+### 👋 Hi there, my name is Vladimir Staninov
 
-<!--
-**cantona94/cantona94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer with React/TypeScript programming experience.
 
-Here are some ideas to get you started:
+# Hard skills
+## Frontend:
+- JavaScript (ES6+)
+- TypeScript
+- ReactJS / Redux / Redux Toolkit / Redux Thunk / Redux Saga
+- SCSS / styled-components / CSS Modules / BEM (CSS)
+- Webpack
+- i18next
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Backend:
+- PHP / Laravel
+- Python / Django
+- Node.JS
+- MySQL / PostgreSQL
+- WebSocket
+
+## Other skills:
+- Git / GitHub
+- Docker
+- JSON / JSON RPC
+
+## My projects
+- [Blog](https://cantona94.github.io/redux-saga-blog/) - Blog | React / Redux-Saga
