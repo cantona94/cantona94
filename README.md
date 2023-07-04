@@ -1,7 +1,5 @@
 ### 👋 Hi there, my name is Vladimir Staninov
 
-I'm a frontend developer with React/TypeScript programming experience.
-
 # Hard skills
 ## Frontend:
 - JavaScript (ES6+)
