@@ -4,6 +4,7 @@
 ## Frontend:
 - TypeScript / JavaScript (ES6+)
 - ReactJS / Redux / Redux Toolkit / Redux Thunk / Redux Saga
+- Vue 3 / Vuex / Quasar
 - SCSS / styled-components / CSS Modules / BEM (CSS)
 - Tailwind / Bootstrap / Ant Design
 - Webpack
