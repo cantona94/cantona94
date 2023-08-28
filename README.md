@@ -24,3 +24,4 @@
 
 ## My projects
 - [Blog](https://cantona94.github.io/redux-saga-blog/) - Blog | React / Redux-Saga
+- [Hangman(game)](https://cantona94.github.io/vue-hangman/) - Hangman(game) | Vue 3 / Composition API / TypeScript
